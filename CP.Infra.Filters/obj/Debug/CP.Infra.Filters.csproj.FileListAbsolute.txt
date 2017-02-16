@@ -1,0 +1,4 @@
+C:\AKumar\CP and Others\AlMufawadh\CP.TravelManager\CP.Infra.Filters\bin\Debug\CP.Infra.CrossCutting.Filters.dll
+C:\AKumar\CP and Others\AlMufawadh\CP.TravelManager\CP.Infra.Filters\bin\Debug\CP.Infra.CrossCutting.Filters.pdb
+C:\AKumar\CP and Others\AlMufawadh\CP.TravelManager\CP.Infra.Filters\obj\Debug\CP.Infra.CrossCutting.Filters.dll
+C:\AKumar\CP and Others\AlMufawadh\CP.TravelManager\CP.Infra.Filters\obj\Debug\CP.Infra.CrossCutting.Filters.pdb
